@@ -2,6 +2,16 @@
 
 > A Vue.js project
 
+[『Vue.jsとFirebaseで作るミニWebサービス』(技術書典シリーズ)]
+(https://amzn.to/2X7qUtX)
+の模写です。
+
+とりあえず、本体はこちらにあげてます。
+[akino_markdown_test](https://mymarkdown-8b3d5.web.app/)
+
+宜しくお願いします。
+
+
 ## Build Setup
 
 ``` bash
